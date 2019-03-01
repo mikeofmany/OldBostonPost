@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to Boston, 1805
 
-You can use the [editor on GitHub](https://github.com/mikeofmany/OldBostonPost/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+As the Boston Post Road completes is epic trail and in one road unites Boston, Providence, New London, New Haven and New York whispers of death immediately ride it reaching the ears of your masters. Promises of power for those that survive and can thrive using the new road and the uniting of urban areas.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Characters
+- We will start with a soft character. What that means is I do not expect anyone to know a lot of rules to begin but I expect a concept.
+- Starting out, we just need a name, a concept of who the PC is right now, their job, an ethnicity, and what kind of person they are.
+- Finally, from the list of clans below one or two that catch the player's attention as to what they would like to learn and play as.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mikeofmany/OldBostonPost/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Clans
+At this time, Boston is mostly a Camarilla city. but there isn't enough of it to truly be a Camarilla stronghold.
+1. Ventrue
+  1. Blue bloods, kings and king makers. The Ventrue are born and raised to rule. 
+1. Toreador
+  1. Artist and critique, the Clan of the Rose are the most in tune with their emotions, passions, and inspiration.
+1. Lasombra
+  1. The Clan of Shadow, in this time many Lasombra support the Camarilla Traditions and have joined to explore and claim the New World.
+1. Brujah
+  1. Warrior-scholars, these can be rulers, but they rule by their hot heads and heavy fists.
+1. Malkavian
+  1. Jester, madman, the clan of the broken mirror are sometimes closer to the truth than anyone is comfortable with.
+1. Gangrel
+  1. A clan of animal, of the beast, more at ease in the forests and wilds of the New World than it's emerging urban areas.
+1. Nosferatu
+  1. The hidden ones, masters of information, cursed in appearance they excell at being hidden.
+  
+  
