@@ -10,7 +10,7 @@ As the Boston Post Road completes is epic trail and in one road unites Boston, P
 ## Clans
 At this time, Boston is mostly a Camarilla city. but there isn't enough of it to truly be a Camarilla stronghold.
 1. Ventrue
-   Blue bloods, kings and king makers. The Ventrue are born and raised to rule. 
+    1. Blue bloods, kings and king makers. The Ventrue are born and raised to rule. 
 1. Toreador
     1. Artist and critique, the Clan of the Rose are the most in tune with their emotions, passions, and inspiration.
 1. Lasombra
