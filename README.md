@@ -24,4 +24,18 @@ At this time, Boston is mostly a Camarilla city. but there isn't enough of it to
 1. Nosferatu
    1. The hidden ones, masters of information, cursed in appearance they excell at being hidden.
   
-  
+## Abilities
+The gamesystem supposes that people will be better in one aspect of their abilities in leiu of others. It follows a sterotype that a body builder may not be the most intellectual and similiar. The ability divisions are
+- Physical
+1. Strength
+1. Dexterity
+1. Stamina
+- Social
+1. Appearance
+1. Charisma
+1. Manipulation
+- Mental
+1. Perception
+1. Intelligence
+1. Wits
+
