@@ -5,6 +5,8 @@ As the Boston Post Road completes is epic trail and in one road unites Boston, P
 ## Characters
 - We will start with a soft character. What that means is I do not expect anyone to know a lot of rules to begin but I expect a concept.
 - Starting out, we just need a name, a concept of who the PC is right now, their job, an ethnicity, and what kind of person they are.
+## Concept
+A concept is when you want to play a theif, a debutante, a white-knight, playing someone that wants to grab power, or someone that has a hidden secret to keep.
 - Finally, from the list of clans below one or two that catch the player's attention as to what they would like to learn and play as.
 
 ## Clans
