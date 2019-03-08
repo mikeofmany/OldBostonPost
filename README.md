@@ -37,9 +37,9 @@ The gamesystem supposes that people will be better in one aspect of their abilit
 
 Physical | Social | Mental
 ---------------------------
-1. Strength | 1. Appearance | 1. Perception
-1. Dexterity | 1. Charisma | 1. Intelligence
-1. Stamina | 1. Manipulation | 1. Wits
+Strength | Appearance | Perception
+Dexterity | Charisma | Intelligence
+Stamina | Manipulation | Wits
 
 
 
