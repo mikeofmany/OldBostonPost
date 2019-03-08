@@ -1,8 +1,14 @@
 ## Welcome to Boston, 1805
 
+[Cast of Characters](coc.md)           [News of the Day](dailymsg.md)           [Persistent Rumors](rumors.md)
+
 As the Boston Post Road completes is epic trail and in one road unites Boston, Providence, New London, New Haven and New York whispers of death immediately ride it reaching the ears of your masters. Promises of power for those that survive and can thrive using the new road and the uniting of urban areas.
 
-## Characters
+We're playing via discord, it's a near constant running game where in the scene may last for several real time days allowing everyone to join in without needing to maintain a session time between several big time zone differences.
+
+### All I'm expecting from the players at this time is the concept of who their PC was in life, a clan that sounds good to them and their concept, and what ability type their character is primarily.
+
+## Characters [Cast of Characters](coc.md)
 - We will start with a soft character. What that means is I do not expect anyone to know a lot of rules to begin but I expect a concept.
 - Starting out, we just need a name, a concept of who the PC is right now, their job, an ethnicity, and what kind of person they are.
 ## Concept
@@ -28,16 +34,12 @@ At this time, Boston is mostly a Camarilla city. but there isn't enough of it to
   
 ## Abilities
 The gamesystem supposes that people will be better in one aspect of their abilities in leiu of others. It follows a sterotype that a body builder may not be the most intellectual and similiar. The ability divisions are
-- Physical
-1. Strength
-1. Dexterity
-1. Stamina
-- Social
-1. Appearance
-1. Charisma
-1. Manipulation
-- Mental
-1. Perception
-1. Intelligence
-1. Wits
+
+Physical | Social | Mental
+---------------------------
+1. Strength | 1. Appearance | 1. Perception
+1. Dexterity | 1. Charisma | 1. Intelligence
+1. Stamina | 1. Manipulation | 1. Wits
+
+
 
