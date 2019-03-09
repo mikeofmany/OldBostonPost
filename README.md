@@ -33,7 +33,7 @@ At this time, Boston is mostly a Camarilla city. but there isn't enough of it to
    1. The hidden ones, masters of information, cursed in appearance they excell at being hidden.
   
 ## Abilities
-The gamesystem supposes that people will be better in one aspect of their abilities in leiu of others. It follows a sterotype that a body builder may not be the most intellectual and similiar. The ability divisions are
+The game system supposes that people will be better in one aspect of their abilities in leiu of others. It follows a sterotype that a body builder may not be the most intellectual and similiar. The ability divisions are
 
 Physical | Social | Mental
 ---------|--------|----------
