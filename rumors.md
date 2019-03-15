@@ -7,5 +7,6 @@ A list of rumors by town or association.
 * Providence
 * Springfield
 * Hartford
+* New Haven
 * Rye
 * New York
