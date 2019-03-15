@@ -1,5 +1,5 @@
 # Rumors
-[Home](https://mikeofmany.github.io/OldBostonPost/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [News of the Day](dailymsg.md) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Persistent Rumors](rumors.md)
+[Home](https://mikeofmany.github.io/OldBostonPost/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [News of the Day](dailymsg.md) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Cast of Characters](coc.md)
 
 A list of rumors by town or association.
 
