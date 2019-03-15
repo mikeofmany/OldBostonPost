@@ -11,8 +11,8 @@
 | Marian | Toreador | Camarilla, Harpy of New York |
 | Shamus | Brujah | Camarilla, Sheriff of New York |
 | Barnabus | Vampire | Prince of New York |
-| Nick | Brujah | Boston - Freethinkers |
-| Patty | Vampire | Boston - Freethinkers |
+| Nick | Brujah | Boston, Freethinkers |
+| Patty | Vampire | Boston, Freethinkers |
 | Dr. Emanulle Becket | Human | Becket House & Univ, Boston |
 | Marshal Winters | Human | US Marshal, Boston, Providence, NY |
 | Post Master Charlson | Human | Boston |
