@@ -10,7 +10,7 @@ A list of rumors by town or association.
   * The Post Road is a trap, there is nothing safe about the woods between us and the cities. Road or no Road.
 * Hartford
 * New Haven
-  * Will the Masquarade survive how fast the kine will get news?
+  * Will the Masquerade survive how fast the kine will get news?
 * Rye
 * New York
   * The Post Road is a Boston plot to extend it's influence
