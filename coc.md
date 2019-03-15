@@ -4,7 +4,7 @@
 [Home](https://mikeofmany.github.io/OldBostonPost/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [News of the Day](dailymsg.md) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Persistent Rumors](rumors.md)
 
 ## NPC's
-| Name | Known Type | Assumed Associations| 
+| Name | Known Type | Assumed Associations | 
 | --------- | ------------ | ---------------- |
 | Annabell | Ventrue | Camarilla, New World Shipping Co, Boston & NY |
 | Lucidia | Vampire | Freelance, Boston |
