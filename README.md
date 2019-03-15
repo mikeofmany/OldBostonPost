@@ -1,6 +1,6 @@
 ## Welcome to Boston, 1805
 
-[https://en.wikipedia.org/wiki/Boston_Post_Road#/media/File:Boston_Post_Road_map.png]
+[!(https://en.wikipedia.org/wiki/Boston_Post_Road#/media/File:Boston_Post_Road_map.png}]
 
 [Cast of Characters](coc.md) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [News of the Day](dailymsg.md) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Persistent Rumors](rumors.md)
 
