@@ -1,8 +1,8 @@
 # Cast of Characters
 
 ## NPC's
-| Name | Known Type | Assumed Associations|
-|-----|------------|----------------|
+| Name | Known Type | Assumed Associations| 
+| --------- | ------------ | ---------------- |
 | Annabell | Ventrue | Camarilla, New World Shipping Co, Boston & NY |
 | Lucidia | Vampire | Freelance, Boston |
 | Marian | Toreador | Camarilla, Harpy of New York |
@@ -15,7 +15,7 @@
 | Post Master Charlson | Human | Boston |
 | Post Master Mansfield | Human | Providence |
 | Post Master Kline | Human | NY |
-| Civic | - | Springfield |
+| Civic | Unknown | Springfield |
 
 ## PC's
 * Oliver King
@@ -23,17 +23,17 @@
   * Oliver is a young man in his early twenties. He's of an athletic build with brown hair, and an ever present 5 o'clock shadow. He has dark gray eyes, like those of a violent storm. Oliver exudes an air of confidence and determination. He's always found well put together, his appearance being something tied closely with his outward personality.
   
 * PC 2
-  *
-  *
+  * PC 2
+  * Pc 2
   
 * PC 3 
-  *
-  *
+  * 3
+  * 3 
   
 * PC 4
-  *
-  *
+  * placehoder
+  * placeholder
   
 * PC 5
-  *
-  *
+  * placeholder
+  * placeholder
