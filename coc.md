@@ -1,5 +1,8 @@
 # Cast of Characters
 
+
+[Home](readme.md) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [News of the Day](dailymsg.md) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Persistent Rumors](rumors.md)
+
 ## NPC's
 | Name | Known Type | Assumed Associations| 
 | --------- | ------------ | ---------------- |
