@@ -42,6 +42,7 @@ At this time, Boston is mostly a Camarilla city. but there isn't enough of it to
    1. Warlocks, Usurpers. The newest in the Camarilla have made their magics an almost necessary part of bringing a domain to heel.
   
 ## Specializations
+10 and roll again. 
 
 
 
